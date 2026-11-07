@@ -1,5 +1,4 @@
-# FadaQa-Dashboard-Projects
-## Secure Life General Hospital: Operational & Financial Performance Dashboard
+# Secure Life General Hospital: Operational & Financial Performance Dashboard
 
  ## Project Overview
  
