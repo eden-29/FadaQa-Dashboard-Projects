@@ -47,7 +47,7 @@ The dataset used in this project contains record-level patient visit data from S
 
 **Dataset File** : [Click here](https://1drv.ms/x/c/7c8c23ff56d12e61/IQBg-Vtp1FdWQIAIIcEpIV9OAWIedHdl-5VvKF-uL_DlTi0?e=qtFXVE)
 
-## Tools & Technologies Used
+## Tools & Visualization
 
 -Microsoft Excel: Data cleaning, structure validation, and aggregate metrics modeling.
 
